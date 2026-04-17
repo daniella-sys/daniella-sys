@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi there, I'm Daniella 👋
+# Hi there, I'm Daniella 
 
 ### 👩‍💻 About Me
 I've explored various paths including Python and C++, and even built websites, but I eventually found my true passion in backend logic and 3D environments.
