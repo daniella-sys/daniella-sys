@@ -18,7 +18,7 @@ I've explored various paths including Python and C++, and even built websites, b
 </p>
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniella-sys&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniella-sys&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 *“Building logic with JS and creating new realities in Blender.”*
